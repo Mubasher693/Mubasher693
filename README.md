@@ -10,4 +10,4 @@ Fate Free Framework, Javascript & Python Flask.
 - 👯 I’m looking to collaborate on PHP Codeigniter, Symfony and Python Flask projects.
 - 🤔 I’m looking for help with DevOps
 - 💬 Ask me about My Goals
-- 📫 How to reach me: [LinkedIn] (https://www.linkedin.com/in/mubasher-iqbal-12065b104/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mubasher-iqbal-12065b104/)
