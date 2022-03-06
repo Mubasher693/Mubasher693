@@ -5,7 +5,7 @@ I consider myself a responsible, creative, with initiative and punctuality, I ac
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP Codeigniter, Symfony, Laravel,
-Fate Free Framework, Javascript & Python Flask.
+Fate Free Framework, Javascript, Inertia, Vue3, Bootstrap, HTML, JQuery & Python Flask.
 - 🌱 I’m currently learning FatFreeFramework
 - 👯 I’m looking to collaborate on PHP Codeigniter, Symfony, Laravel and Python Flask projects.
 - 🤔 I’m looking for help with DevOps
